@@ -47,11 +47,3 @@ BankWeb is a comprehensive Java-based web application designed for managing bank
 - **Bootstrap**: For responsive UI design.
 - **Tomcat**: Application server for deployment.
 
----
-
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/capstone-project-bankweb.git
-   cd capstone-project-bankweb
